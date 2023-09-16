@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <meta charset="UTF-8" />
+    <title>Signature à la main</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <canvas id="signatureCanvas" width="500" height="200"></canvas>
+    <br />
+    <div class="controls">
+      <label for="lineWidth">Épaisseur du trait:</label>
+      <input type="range" id="lineWidth" min="1" max="10" value="3" />
+      <label for="colorPicker">Couleur:</label>
+      <input type="color" id="colorPicker" value="#000000" />
+    </div>
+    <br /><br />
+    <button id="effacer">Effacer</button>
+    <button id="save">Sauvegarder</button>
+    <script src="script.js"></script>
+  </body>
+</html>
