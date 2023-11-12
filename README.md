@@ -1,5 +1,5 @@
 # Signature manuelle 📝
-Une application web simple permettant à l'utilisateur de créer sa propre signature à l main avec une souris. Elle offre également la possibilité d'ajuster la couleur et l'épaisseur du trait, et de sauvegarder la signature sous forme d'image PNG.
+Une application web simple permettant à l'utilisateur de créer sa propre signature à la main avec une souris. Elle offre également la possibilité d'ajuster la couleur et l'épaisseur du trait, et de sauvegarder la signature sous forme d'image PNG.
 
 # 🚀 Fonctionnalités
 - Dessiner la signature à la main à l'aide de la souris.
